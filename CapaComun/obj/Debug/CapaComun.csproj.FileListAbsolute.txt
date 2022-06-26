@@ -1,0 +1,12 @@
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\CapaComun\obj\Debug\CapaComun.pdb

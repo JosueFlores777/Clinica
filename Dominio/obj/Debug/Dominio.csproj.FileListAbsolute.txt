@@ -1,0 +1,36 @@
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\Dominio.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\obj\Debug\Dominio.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\Dominio\bin\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\Dominio.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\bin\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\obj\Debug\Dominio.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica - copia\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\Dominio.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\CapaComun.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\bin\Debug\CapaComun.pdb
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\obj\Debug\Dominio.dll
+C:\Users\Josue\Desktop\Nueva carpeta (2)\ProyectoClinica\Dominio\obj\Debug\Dominio.pdb
